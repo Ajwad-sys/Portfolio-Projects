@@ -1,0 +1,17 @@
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 2em;
+    place-items: center;
+}
+
+.image {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.image img {
+    width: 70%;
+    margin: auto;
+}
