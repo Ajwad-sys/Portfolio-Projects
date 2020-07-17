@@ -1,0 +1,15 @@
+[submodule "Coming-Soon-Page--Ping"]
+	path = Coming-Soon-Page--Ping
+	url = https://github.com/Ajwad-sys/Coming-Soon-Page--Ping
+[submodule "Huddle-introductory-page"]
+	path = Huddle-introductory-page
+	url = https://github.com/Ajwad-sys/Huddle-introductory-page
+[submodule "Fylo-landing-page"]
+	path = Fylo-landing-page
+	url = https://github.com/Ajwad-sys/Fylo-landing-page
+[submodule "Fylo-Storage-Component"]
+	path = Fylo-Storage-Component
+	url = https://github.com/Ajwad-sys/Fylo-Storage-Component
+[submodule "FrontEndChallenge"]
+	path = FrontEndChallenge
+	url = https://github.com/Ajwad-sys/FrontEndChallenge
