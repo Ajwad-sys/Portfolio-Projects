@@ -57,10 +57,11 @@
   }
   .text {
     margin: auto;
-    text-align: center;
     padding-right: 30px;
     padding-left: 30px;
     color: hsl(208, 11%, 55%);
+    width: 32em;
+    text-align: left;
   }
   header {
     display: flex;
@@ -73,13 +74,13 @@
   }
   .headerbutton {
     background-color: hsl(193, 100%, 96%);
-    border-radius: 10px;
-    width: 97px;
-    height: 25px;
     border: none;
     box-shadow: 3px 3px 11px pink;
     font-weight: 700;
     background-color: white;
+    border-radius: 12px;
+    width: 125px;
+    height: 28px;
   }
   .introduction {
     display: flex;
@@ -95,13 +96,6 @@
     background-image: url(/images/bg-hero-desktop.svg);
     background-color: hsl(193, 100%, 96%);
     padding: 10px;
-  }
-  .text {
-    margin: auto;
-    text-align: center;
-    padding-right: 30px;
-    padding-left: 30px;
-    color: hsl(208, 11%, 55%);
   }
   .picture {
     width: 100%;
@@ -211,7 +205,8 @@
   .logo {
     margin-top: 0em;
     margin-bottom: 1em;
-    width: 50%;
+    width: 20%;
+    max-width: 30%;
   }
   .information {
     columns: 2;
